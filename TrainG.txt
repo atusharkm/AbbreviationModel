@@ -40,3 +40,81 @@ infrmtion-information
 infrmtin-information
 informtn-information
 new info-new information
+info-information
+zp-zip
+pstl zp-postal zip
+zpcd-zip code
+cd-code
+cod-code
+cde-code
+intrst-interest
+interst-interest
+itrst--interest
+intrest-interest
+iterest-interest
+amnt-amount
+aount-amount
+amont-amount
+amt-amount
+tlphn-telephone
+telephn-telephone
+tlphon-telephone
+telphn-telephone
+telephon-telephone
+tlphne-telephone
+phn-phone
+phon-phone
+phne-phone
+tx-tax
+incm-income
+incme-income
+incom-income
+incmtx-income tax
+incomtx-income tax
+incmtax-income tax
+rvnue-revenue
+rvnu-revenue
+revnu-revenue
+revenu-revenue
+revnue-revenue
+eml-email
+emal-email
+emil-email
+eail-email
+idnty-identity
+idntty-identity
+idntity-identity
+identy-identity
+idty-identity
+srl-serial
+serl-serial
+seril-serial
+sril-serial
+nbr-number
+nmbr-number
+nber-number
+nmber-number
+numbr-number
+idntfctn-identification
+idtfiction-identification
+identfctn-identification
+identfcton-identification
+idntfcatin-identification
+idntfction-identification
+brth-birth
+birt-birth
+bth-birth
+dt-date
+dat-date
+dte-date
+brthdt-birth date
+bithdte-birth date
+brthdate-birth date
+dth-death
+deth-death
+dath-death
+deat-death
+dethdte-death date
+dthdte-death date
+snstve-sensitive
+senstive-sensitive
