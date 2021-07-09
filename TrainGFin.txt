@@ -1,0 +1,622 @@
+mmbr-member
+mmer-member
+membr-member
+mmber-member
+membe-member
+meber-member
+memer-member
+member-member
+adrs-address
+addrs-address
+addrss-address
+adres-address
+adres-address
+addrss-address
+addres-address
+address-address
+emaladrs-email address
+emladdrs-email address
+emladrs-email address
+emladres-email address
+emailadrs-email address
+emladdress-email address
+emiladdress-email address
+email address-email address
+pstl-postal
+postl-postal
+posta-postal
+pstal-postal
+postal-postal
+pstladdrss	-postal address
+postladdrss-postal address
+postaaddrss-postal address
+pstaladdrss-postal address
+pstladrss-postal address
+postladrss-postal address
+postaadrss-postal address
+pstaladrss-postal address
+pstladdrs-postal address
+postladdrs-postal address
+postaaddrs-postal address
+pstaladdrs-postal address
+postal address-postal address
+infrmtn-information
+infrmtion-information
+infrmtin-information
+informtn-information
+information-information
+new info-new information
+new information-new information
+info-information
+zp-zip
+pstl zp-postal zip
+postal zip-postal zip
+zpcd-zip code
+cd-code
+cod-code
+cde-code
+code-code
+intrst-interest
+interst-interest
+itrst-interest
+intrest-interest
+iterest-interest
+interest-interest
+amnt-amount
+aount-amount
+amont-amount
+amt-amount
+amount-amount
+tlphn-telephone
+telephn-telephone
+tlphon-telephone
+telphn-telephone
+telephon-telephone
+tlphne-telephone
+telephone-telephone
+phn-phone
+phon-phone
+phne-phone
+phone-phone
+tx-tax
+incm-income
+incme-income
+incom-income
+income-income
+incmtx-income tax
+incomtx-income tax
+incmtax-income tax
+income tax-income tax
+rvnue-revenue
+rvnu-revenue
+revnu-revenue
+revenu-revenue
+revnue-revenue
+revenue-revenue
+eml-email
+emal-email
+emil-email
+eail-email
+email-email
+idnty-identity
+idntty-identity
+idntity-identity
+identy-identity
+idty-identity
+identity-identity
+srl-serial
+serl-serial
+seril-serial
+sril-serial
+serial-serial
+nbr-number
+nmbr-number
+nber-number
+nmber-number
+numbr-number
+number-number
+idntfctn-identification
+idtfiction-identification
+identfctn-identification
+identfcton-identification
+idntfcatin-identification
+idntfction-identification
+identification-identification
+brth-birth
+birt-birth
+bth-birth
+birth-birth
+dt-date
+dat-date
+dte-date
+date-date
+brthdt-birth date
+bithdte-birth date
+brthdate-birth date
+birth date-birth date
+dth-death
+deth-death
+dath-death
+deat-death
+death-death
+dethdte-death date
+dthdte-death date
+death date-death date
+snstve-sensitive
+senstive-sensitive
+ssitve-sensitive
+snstiv-sensitive
+senstv-sensitive
+sensitive-sensitive
+acmdtn-accommodation
+acomdtn-accommodation
+acomdaton-accommodation
+acmdaton-accommodation
+acomdtion-accommodation
+accommodation-accommodation
+acnt-account
+accnt-account
+acont-account
+acunt-account
+acont-account
+account-account
+admsion-admission
+admsn-admission
+admisn-admission
+admson-admission
+addmsn-admission
+admission-admission
+afdvt-affidavit
+afdavt-affidavit
+affdvt-affidavit
+afidvit-affidavit
+afdvit-affidavit
+affidavit-affidavit
+agncy-agency
+agcy-agency
+ancey-agency
+agnc-agency
+agency-agency
+agrmnt-agreement
+agmnt-agreement
+agrmt-agreement
+agemnt-agreement
+agrmt-agreement
+agreement-agreement
+nm-name
+nme-name
+nam-name
+name-name
+frst-first
+fst-first
+frt-first
+firt-first
+first-first
+lst-last
+lat-last
+frtnm-first name
+frstnm-first name
+frstnme-first name
+fstnam-first name
+fstname-first name
+first name-first name
+lstnm-last name
+lstnme-last name
+lstname-last name
+last name-last name
+fthr-father
+ftr-father
+father-father
+fthrnm-father's name
+ftrnme-father's name
+ftrnam-father's name
+father's name-father's name
+mthr-mother
+mtr-mother
+mther-mother
+mother-mother
+mthrnm-mother's name
+mthernme-mother's name
+mthername-mother's name
+mother's name-mother's name
+fncl-financial
+fncal-financial
+financial-financial
+fnce-finance
+finnce-finance
+fice-finance
+finance-finance
+crdntls-credentials
+crdntils-credentials
+credtls-credentials
+crdntals-credentials
+crdntils-credentials
+credentials-credentials
+psswrd-password
+pdwrd-password
+pdwd-passwrd
+psswrd-password
+password-password
+crdt-credit
+cdt-credit
+credit-credit
+crd-card
+card-card
+crdtcd-credit card
+crdtcrd-credit card
+crditcard-credit card
+crdtcard-credit card
+credit card-credit card
+lcnse-license
+lcns-license
+licns-license
+licnse-license
+license-license
+insrnce-insurance
+insrnc-insurance
+insurnce-insurance
+isrnce-insurance
+insurance-insurance
+prmim-premium
+prmm-premium
+prmum-premium
+premm-premium
+prmum-premium
+premium-premium
+ntwk-network
+ntwrk-network
+netwrk-network
+ntwork-network
+network-network
+drctry-directory
+dirctry-directory
+drctory-directory
+directory-directory
+crprt-corporate
+crprte-corporate
+crporte-corporate
+corporate-corporate
+cnfdntl-confidential
+cnfidntl-confidential
+confdntl-confidential
+cfdtl-confidential
+cfdntl-confidential
+confidential-confidential
+afr-affair
+affr-affair
+srvc-service
+servc-service
+service-service
+services-services
+srvcs-services
+prvt-private
+prvte-private
+privt-private
+prvt-private
+private-private
+hlth-health
+helth-health
+halth-health
+health-health
+dtobrth-date of birth
+dtodth-date of death
+dteobrth-date of birth
+dtodth-date of death
+date of birth-date of birth
+grdn-guardian
+gurdn-guardian
+grdin-guardian
+guardian-guardian
+dbt-debit
+debt-debit
+debit-debit
+dbtcrd-debit card
+dbtcard-debit card
+debit card-debit card
+rsdntl-residential
+rsdentl-residential
+rsdntil-residential
+rsdntal-residential
+residential-residential
+ofce-office
+offce-office
+ofic-office
+office-office
+drvng-driving
+drving-driving
+drvg-driving
+driving-driving
+drvnglcns-driving license
+drvinglcns-driving license
+drvglcns-driving license
+drvglicense-driving license
+driving license-driving license
+psprt-passport
+pspt-passport
+pssprt-passport
+pasprt-passport
+psport-passport
+passport-passport
+ntnlty-nationality
+natnlty-nationality
+ntinlty-nationality
+ntlty-nationality
+nationality-nationality
+prkng-parking
+prkg-parking
+prkig-parking
+parking-parking
+tckt-ticket
+tickt-ticket
+tcket-ticket
+ticket-ticket
+prkgtckt-parking ticket
+prkngtckt-parking ticket
+prkgticket-parking ticket
+parking ticket-parking ticket
+aprntc-apprentice
+aprtc-apprentice
+rc-race
+rce-race
+rac-race
+race-race
+etnc-ethnic
+ethc-ethnic
+etncty-ethnicity
+etnty-ethnicity
+ethnicity-ethnicity
+gndr-gender
+gdr-gender
+gender-gender
+gendr-gender
+bmtrc-biometric
+bmtc-biometric
+biometric-biometric
+bmric-biometric
+rlgon-religion
+rlgn-religion
+religion-religion
+sclscrty-social security
+scalscrity-social security
+sclscty-social security
+soclscrty-social security
+bl-bill
+bil-bill
+bill-bill
+rnt-rent
+hsngrnt-housing rent
+parkngbl-parking bill
+prkngbill-parking bill
+expndtre-expenditure
+expdtre-expenditure
+expnre-expenditure
+expntre-expenditure
+expenditure-expenditure
+spse-spouse
+spose-spouse
+emplye-employee
+eplye-employee
+empye-employee
+emplyr-employer
+eplyr-employer
+emplyrs-employers
+empys-employees
+schl-school
+clge-college
+cllge-college
+colge-college
+schol-school
+college-college
+school-school
+crtfcte-certificate
+crtfte-certificate
+crtficte-certificate
+ctfcat-certificate
+brthcrtfcte-birth certificate
+bthcrtfte-birth certificate
+brthcrtficte-birth certificate
+brthctfcat-birth certificate
+brthcrtificate-birth certificate
+dthcrtfcte-death certificate
+dthcrtfte-death certificate
+dethcrtficte-death certificate
+dethctfcat-death certificate
+dethcertificate-death certificate
+plcy-policy
+pcy-policy
+polcy-policy
+cnctn-connection
+conctn-connection
+cncton-connection
+cnction-connection
+lndlne-landline
+lndlin-landline
+landline-landline
+applcnt-applicant
+aplcton-application
+psbk-passbook
+psbok-passbook
+pssbok-passbook
+bnk-bank
+bank-bank
+passbook-passbook
+bnkacnt-bank account
+bnkacnnt-bank account
+bnkacont-bank account
+bank account-bank account
+rntagrmnt-rent agreement
+rntagrmt-rent agreement
+rent agreement-rent agreement
+rntagreement-rent agreement
+mble-mobile
+mbl-mobile
+mobl-mobile
+plcybnd-policy bond
+plcybond-policy bond
+pcybond-policy bond
+policy bond-policy bond
+prnt-parent
+prnts-parents
+parnt-parent
+paret-parent
+parent-parent
+prents-parents
+parents-parents
+sctr-sector
+sctor-sector
+rgnl-regional
+sector-sector
+regnl-regional
+regional-regional
+rntagrmnt-rent agreement
+rntagmnt-rent agreement
+rntagrement-rent agreement
+vldty-validity
+vldity-validity
+validity-validity
+vldiy-validity
+ltr-letter
+lttr-letter
+letr-letter
+frm-form
+form-form
+letter-letter
+sbmson-submission
+sbmsn-submission
+sbmisn-submission
+sbmision-submission
+apntmnt-appointment
+aptmnt-appointment
+apntmt-appointment
+appointment-appointment
+ascte-associate
+ascite-associate
+associate-associate
+aplctn-application
+application-application
+applctn-application
+aplcton-application
+aplcn-application
+clcte-calculate
+sfx-suffix
+sufx-suffix
+sfix-suffix
+suffix-suffix
+frqnt-frequent
+frqt-frequent
+freqt-frequent
+frequent-frequent
+accntnmbr-account number
+acntnbr-account number
+acntnmbr-account number
+accntnbr-account number
+accnt nmbr-account number
+acntsfx-account suffix
+acntsffx-account suffix
+actsfx-account suffix
+mmbr-member
+mmer-member
+membr-member
+mmber-member
+membe-member
+meber-member
+memer-member
+member-member
+adrs-address
+addrs-address
+addrss-address
+adres-address
+adres-address
+addrss-address
+addres-address
+address-address
+emaladrs-email address
+emladdrs-email address
+emladrs-email address
+emladres-email address
+emailadrs-email address
+emladdress-email address
+emiladdress-email address
+email address-email address
+pstl-postal
+postl-postal
+posta-postal
+pstal-postal
+postal-postal
+pstladdrss	-postal address
+postladdrss-postal address
+postaaddrss-postal address
+pstaladdrss-postal address
+pstladrss-postal address
+postladrss-postal address
+postaadrss-postal address
+pstaladrss-postal address
+pstladdrs-postal address
+postladdrs-postal address
+postaaddrs-postal address
+pstaladdrs-postal address
+postal address-postal address
+infrmtn-information
+infrmtion-information
+infrmtin-information
+informtn-information
+information-information
+new info-new information
+new information-new information
+info-information
+zp-zip
+pstl zp-postal zip
+postal zip-postal zip
+zpcd-zip code
+cd-code
+cod-code
+cde-code
+code-code
+intrst-interest
+interst-interest
+itrst-interest
+intrest-interest
+iterest-interest
+interest-interest
+amnt-amount
+aount-amount
+amont-amount
+amt-amount
+amount-amount
+tlphn-telephone
+telephn-telephone
+tlphon-telephone
+telphn-telephone
+telephon-telephone
+tlphne-telephone
+telephone-telephone
+phn-phone
+phon-phone
+phne-phone
+phone-phone
+tx-tax
+incm-income
+incme-income
+incom-income
+income-income
+incmtx-income tax
+incomtx-income tax
+incmtax-income tax
+income tax-income tax
+rvnue-revenue
+rvnu-revenue
+revnu-revenue
+revenu-revenue
+revnue-revenue
+revenue-revenue
+eml-email
+emal-email
+emil-email
+eail-email
+email-email
+accnt nmbr- 
+accntnmbr- 
+fst nme- 
+fstnme- 
+lstnme- 
+accntsfx- 
